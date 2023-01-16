@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Path></Path>
+  <Arguments></Arguments>
+  <Title>連戦js</Title>
+  <Explanation>RPG風のゲームです。15連勝したらクリアです。各職業の説明↓剣士…連続攻撃の双竜と強攻撃の剛剣を使い分けて戦う物理アタッカー。神官…回復と聖属性の魔法を使って戦う魔法系キャラ。魔術士…炎・氷・雷属性の魔法を使う高火力魔法アタッカー。騎士…物理防御が高く、「シールドバッシュ」で防御力を攻撃にも生かせる高耐久キャラ。アサシン…毒と眠りを付与する技を操り、相性の悪い相手は「一撃の刃」で瞬殺することも可能な高速物理アタッカー。呪術士…混乱と暗闇を操り、状態異常にかかった相手に大ダメージを与える「不思議な煙」で戦う特殊系アタッカー。精霊使い…土・風属性の魔法を操り、ミラーによる魔法反射も行える魔法アタッカー。ファイター…バフ・デバフを操って戦う物理アタッカー。クラウン…ステータスもスキルも完全にランダムで決まる運ゲーのためのキャラ。</Explanation>
+  <HtmlPath>consecutive Prototype.html</HtmlPath>
+  <ImagePath></ImagePath>
+  <Version>1.0</Version>
+  <Author>
+    <string>福島</string>
+  </Author>
+  <Type>Project</Type>
+</XmlData>
+

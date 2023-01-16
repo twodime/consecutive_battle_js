@@ -1,0 +1,52 @@
+html{
+    height: 100%;
+}
+
+body{
+    background-image: url("title.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+img{
+    display: block;
+}
+
+h1{
+    color:white;
+}
+
+div{
+    height: 50%;
+    color:white;
+}
+
+#command{
+    height: 50px;
+}
+
+#gamePictureTop{
+    height: 350px;
+}
+
+
+button{
+    margin: 1em;
+}
+
+input{
+    display: block;
+    margin: 3px;
+}
+
+p{
+    font-size: 80%;
+}
+
+#messageBox{
+    height: 50%;
+    border: solid;
+    border-color: aliceblue;
+    background-color: green;
+}
